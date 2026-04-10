@@ -1,4 +1,4 @@
-# Enterprise Hybrid-Cloud Infrastructure & Nutanix-VMware Implementation
+# Enterprise Hybrid-Cloud Infrastructure Lab (Nutanix & VMware)
 
 ## Project Overview
 Deployed a production-grade 3-node Hyper-Converged Infrastructure (HCI) during my internship at **Tech Data APAC**. This project demonstrates the integration of **VMware ESXi 8.0.3 on Nutanix NX hardware**, professional networking with **Juniper switches**, and advanced hardware lifecycle management across multiple generations.
